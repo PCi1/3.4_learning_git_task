@@ -12,3 +12,4 @@ for store in shopping_list:
     product_list+=shopping_list[store]
 print(f"W sumię kupiłem {len(product_list)} produktów.")
 print('Dobrze że mam listę z zakpuami, dzięki niej na 100% niczego nie zapomnę tak jak zapommniałem o zadaniu 3.4')
+print('Skoro już mowa o zapominaniu, to życzę Ci byś szybko zaponmniał o bólu po usunięciu ósemki :)')
