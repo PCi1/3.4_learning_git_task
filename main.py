@@ -1,6 +1,6 @@
 shopping_list={
     "warzywniak":["marchew", "ogórek", "sałata"],
-    "zoologiczny":["jedzenie dla kota"],
+    "zoologiczny":["jedzenie dla kota", 'jedzenie dla psa'],
     "piekarnia":["chleb", "ciasto"],
     "mięsny":["szynka", "kurczak"]
     }
